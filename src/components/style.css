@@ -1,0 +1,10 @@
+.notes-list {
+  display: flex;
+}
+
+.note-text {
+  min-width: 100px;
+  min-height: 100px;
+  margin-right: 10px;
+  border: 1px solid #000;
+}
